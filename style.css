@@ -1,0 +1,34 @@
+.blue{
+    color: blue;
+}
+
+.red {
+    color: red
+}
+
+#helloImg {
+    border-radius: 95%;
+    width: 50%;
+}
+
+.block {
+    display: block;
+}
+
+.none {
+    display: none;
+}
+
+.block {
+    background-color: blue;
+    /* padding: 10rem; */
+    width: 20rem;
+    height: 20rem;
+    text-align: center; 
+}
+
+.text2 {
+    margin: auto;
+    padding-top: 9rem;
+}
+
